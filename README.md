@@ -20,8 +20,11 @@ lives is gone game over.
 The player can destroy mushrooms by shooting them, but each takes several shots to destroy.
 Destroying mushrooms can create bonus that moves to bottom of the screen. Posible
 bonuses:
+
 ● increasing shooting speed;
+
 ● increasing moving speed;
+
 ● life
 
 The player is also menaced by other creatures besides the centipedes.
@@ -33,8 +36,10 @@ The player is also menaced by other creatures besides the centipedes.
 Game modes:
 
 Game can be running in two modes: level and endless. There are differences between that modes.
+
 ● Level. In this mode only one centipede apears per game. When all the centipede's segments are 
-  destroyed, level is completed. 
+  destroyed, level is completed.
+  
 ● Endless. When all the centipede's segments are destroyed, a new centipede forms at the top
   of the screen. Every time a centipede is eliminated, however, the next one is one
   segment shorter and is accompanied by one additional, fast-moving "head" centipede. Finally there
